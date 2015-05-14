@@ -1,0 +1,11 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* DESIGN */
+  Paul Robert Lloyd - @paulrobertlloyd
+  + James Bates - @jvbates
+
+/* DEVELOPMENT */
+  Andy Hume - @andyhume
+  + Jeremy Keith - @adactio
